@@ -12,7 +12,11 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+<<<<<<< HEAD
     "bootstrap": "4.3.1",
+=======
+    "bootstrap": "^4.4.1",
+>>>>>>> 3276c88719c25cc944cbd256479066a84e549cf5
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-router-dom": "4.3.1",
