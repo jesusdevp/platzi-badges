@@ -15,4 +15,13 @@ import Badge from "./components/Badge";
 const container = document.getElementById("app");
 
 // ReactDOM.render(__qué__, __dónde__);
-ReactDOM.render(<Badge />, container);
+ReactDOM.render(
+  <Badge
+    firstName="Jesús"
+    lastName="Ramírez"
+    avatarUrl="https://www.gravatar.com/avatar?d=identicon"
+    jobTitle="Frontend Enginer"
+    twitter="jesusdevp"
+  />,
+  container
+);
